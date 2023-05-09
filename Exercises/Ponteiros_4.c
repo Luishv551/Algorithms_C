@@ -12,6 +12,10 @@ printf("Conteudo de y: %d\n", y);
 printf("Conteudo da variavel apontada por y: %d\n", *y);
 
 
-*y = x * 3;
-printf("Conteudo de x: %d", x);
+*y = *y * 3;
+
+printf("Conteudo de x * 3 acessando atraves do ponteiro: %d\n", *y);
+printf("Conteudo de x: %d\n", x);
+
+
 }
