@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1737320465 source:c:\users\luish\onedrive\햞ea de trabalho\c projetos\projetofinanceiroc\conta.c
+	"conta.h"
+	<stdio.h>
+	<string.h>
+
+1737320465 c:\users\luish\onedrive\햞ea de trabalho\c projetos\projetofinanceiroc\conta.h
+
+1737320465 source:c:\users\luish\onedrive\햞ea de trabalho\c projetos\projetofinanceiroc\util.c
+	"util.h"
+	<stdio.h>
+	<stdlib.h>
+
+1737320465 c:\users\luish\onedrive\햞ea de trabalho\c projetos\projetofinanceiroc\util.h
+
+1737320615 source:c:\users\luish\onedrive\햞ea de trabalho\c projetos\projetofinanceiroc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"conta.h"
+
